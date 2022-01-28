@@ -1,5 +1,6 @@
 ### Abstract Factory
 <br />
-"Abstract Factory" é um design pattern criacional que permite a criação de diferentes tipos de objetos filhos de uma superclasse sem especificar a subclasse. Neste exemplo, são criados diferentes elementos de uma interface de acordo com o sistema operacional.
+"Abstract Factory" é um padrão de projeto criacional que permite que você produza famílias de objetos relacionados sem ter que especificar suas classes concretas.
 <br /><br />
 
+https://refactoring.guru/pt-br/design-patterns/abstract-factory
