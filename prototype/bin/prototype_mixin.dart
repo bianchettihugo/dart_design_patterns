@@ -1,0 +1,3 @@
+mixin Prototype {
+  Prototype copyWith();
+}
